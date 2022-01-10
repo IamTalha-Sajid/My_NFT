@@ -1,0 +1,15 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Specie",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Developer",
+            "value": "NodeJs"
+        }
+    ],
+    "description": "The world's best Node.js Developer.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmY9wGbWZEanZGqHrEbnqgVvyU4bjDYpbZLgtUpksbqrc9",
+    "name": "Azeem"
+}
